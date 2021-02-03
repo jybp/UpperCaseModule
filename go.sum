@@ -1,0 +1,4 @@
+github.com/jybp/errors v0.8.2 h1:Fwc/3wvzAbAeZFLgQi4M4owuDoYALHUXq820P8+nH9w=
+github.com/jybp/errors v0.8.2/go.mod h1:wN0JScjXm8a4Ixl4q68QUymuj8sesWViorxPo9Ts2Ng=
+gopkg.in/jybp/errors.v0 v0.8.2 h1:eLYBe34CCZu8WrVnFqj+eGf6Xg+2SlPncnf7BEjHTdw=
+gopkg.in/jybp/errors.v0 v0.8.2/go.mod h1:Wr3C6MOL5PnycOSd4Cb36nzHWMUfjMbJe1yVCnK7+Tw=
